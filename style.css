@@ -9,11 +9,13 @@ body {
 /* Headings */
 h1 {
   color: #6fae81;
+  text-decoration: underline;
 }
 
 h2 {
   margin-top: 30px;
   color: #444;
+  text-decoration: underline;
 }
 
 /* List styling */
