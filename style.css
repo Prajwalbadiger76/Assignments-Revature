@@ -1,0 +1,50 @@
+/* Basic page styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #fafafa;
+  margin-left: 10rem;
+}
+
+/* Headings */
+h1 {
+  color: #6fae81;
+}
+
+h2 {
+  margin-top: 30px;
+  color: #444;
+}
+
+/* List styling */
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+/* Failed students */
+.failed {
+  color: rgb(213, 68, 68);
+  font-weight: bold;
+}
+
+/* Table styling */
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background-color: #fff;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f0f0f0;
+}
